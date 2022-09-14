@@ -1,6 +1,6 @@
 ---
 Title: Custom Right Click Menu (context Menu)
-categories: [vba]
+categories: [excel, vba]
 tags: [developer, userform]
 date: 2017-03-19 18:43:00
 

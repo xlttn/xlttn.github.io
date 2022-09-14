@@ -1,6 +1,6 @@
 ---
 Title: Exit Sub if the Selection is Not a Range of Cells
-categories: [vba]
+categories: [excel, vba]
 tags: [developer]
 date: 2017-03-19 18:43:00
 

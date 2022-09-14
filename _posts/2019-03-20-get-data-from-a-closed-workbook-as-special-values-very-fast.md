@@ -1,6 +1,6 @@
 ---
 Title: Get Data from a Closed Workbook as Special Values very Fast
-categories: [vba]
+categories: [excel, vba]
 tags: [copy-data]
 date: 2019-03-20 21:25:00
 

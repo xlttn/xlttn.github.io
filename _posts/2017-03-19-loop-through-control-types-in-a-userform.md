@@ -1,6 +1,6 @@
 ---
 Title: Loop Through Control Types in a Userform
-categories: [vba]
+categories: [excel, vba]
 tags: [userform]
 date: 2017-03-19 18:43:00
 

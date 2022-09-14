@@ -1,6 +1,6 @@
 ---
 Title: Add a row to the Bottom of the Active Table
-categories: [vba]
+categories: [excel, vba]
 tags: [tables]
 date: 2018-09-25
 
