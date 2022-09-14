@@ -6,7 +6,7 @@
 #
 # Usage: See help information
 
-set -eu
+set -eu 
 
 PAGES_BRANCH="gh-pages"
 
