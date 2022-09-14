@@ -12,10 +12,9 @@ Download the example workbook here: [Sample-Table-Data.xlsx](/example-files/Samp
 
 Download the random table custom setup workbook here: [sample-sales-data-setup-with-formulas.xlsx](/example-files/sample-sales-data-setup-with-formulas.xlsx) and look at the formulas to see how random data is set for your chosen parameters.
 
-<script src="https://gist.github.com/ExcelTitan/4f622ffe30ba0c943592e9a58588b0f4.js"></script>
+# <script src="https://gist.github.com/ExcelTitan/4f622ffe30ba0c943592e9a58588b0f4.js"></script>
 
 
-<!--  
 | Order Date | Rep       | Region | Item    | Units Sold | Unit Price | Total Sale |
 |------------|-----------|--------|---------|------------|------------|------------|
 | 1/01/2020  | Kivell    | East   | Pencil  | 4          | 0.99       | 3.96       |
@@ -171,4 +170,3 @@ Download the random table custom setup workbook here: [sample-sales-data-setup-w
 | 26/06/2020 | Allan     | West   | Desk    | 1          | 125.99     | 125.99     |
 | 26/06/2020 | Houston   | East   | Pen     | 2          | 1.29       | 2.58       |
 | 30/06/2020 | Allan     | West   | Pen Set | 2          | 4.49       | 8.98       |
--->
