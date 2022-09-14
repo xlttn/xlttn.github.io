@@ -12,7 +12,6 @@ Download the example workbook here: [Sample-Table-Data.xlsx](/example-files/Samp
 
 Download the random table custom setup workbook here: [sample-sales-data-setup-with-formulas.xlsx](/example-files/sample-sales-data-setup-with-formulas.xlsx) and look at the formulas to see how random data is set for your chosen parameters.
 
-# <script src="https://gist.github.com/ExcelTitan/4f622ffe30ba0c943592e9a58588b0f4.js"></script>
 
 
 | Order Date | Rep       | Region | Item    | Units Sold | Unit Price | Total Sale |
