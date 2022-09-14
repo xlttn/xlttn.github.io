@@ -7,7 +7,7 @@ date: 2020-03-18 18:43:00
 ---
 
 
-List of Australian States and their Capital Cities.  
+List of Australian States and their Capital Cities.
 
 
 | State                        | Abbr | Capital City |
