@@ -1,6 +1,6 @@
 ---
 Title: VBA Paste Values in Excel with Keyboard Shortcut
-categories: [vba]
+categories: [excel, vba]
 tags: [copy-data, practical]
 date: 2019-08-08 18:43:00
 

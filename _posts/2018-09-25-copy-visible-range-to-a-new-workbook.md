@@ -1,6 +1,6 @@
 ---
 Title: Copy Visible cells in Range to a new Workbook
-categories: [vba]
+categories: [excel, vba]
 tags: [copy-data]
 date: 2018-09-25
 

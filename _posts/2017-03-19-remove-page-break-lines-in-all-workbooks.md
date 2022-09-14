@@ -1,6 +1,6 @@
 ---
 Title: Remove Page Break Lines in All Workbooks
-categories: [vba]
+categories: [excel, vba]
 tags: [interface-formatting, practical]
 date: 2017-03-19 18:43:00
 

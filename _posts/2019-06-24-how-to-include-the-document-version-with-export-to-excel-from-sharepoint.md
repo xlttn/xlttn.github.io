@@ -1,6 +1,6 @@
 ---
 Title: How to include the document version with 'Export to Excel' from Sharepoint
-categories: [vba]
+categories: [excel, vba]
 tags: [sharepoint]
 date: 2019-06-24 18:43:00
 

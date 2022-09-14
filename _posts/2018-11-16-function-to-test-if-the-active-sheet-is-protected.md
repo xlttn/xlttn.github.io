@@ -1,6 +1,6 @@
 ---
 Title: Function to test if the active sheet is protected
-categories: [vba]
+categories: [excel, vba]
 tags: [validation, developer, function]
 date: 2018-11-16
 

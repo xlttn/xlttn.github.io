@@ -1,6 +1,6 @@
 ---
 Title: Clear data from multiple ranges
-categories: [vba]
+categories: [excel, vba]
 tags: [deleting]
 date: 2018-09-25
 

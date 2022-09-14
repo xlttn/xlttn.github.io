@@ -1,6 +1,6 @@
 ---
 Title: Worksheet event to prevent the sheet being deleted
-categories: [vba]
+categories: [excel, vba]
 tags: [validation, developer, function]
 date: 2019-02-06
 

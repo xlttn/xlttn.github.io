@@ -1,6 +1,6 @@
 ---
 Title: Delete Rows in a Column that are Blank
-categories: [vba]
+categories: [excel, vba]
 tags: [deleting-data, Dynamic-Ranges]
 date: 2018-11-16
 

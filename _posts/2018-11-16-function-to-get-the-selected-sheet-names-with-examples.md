@@ -1,6 +1,6 @@
 ---
 Title: Function to get the selected sheet names with examples
-categories: [vba]
+categories: [excel, vba]
 tags: [validation, developer, function]
 date: 2018-11-16
 

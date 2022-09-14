@@ -1,6 +1,6 @@
 ---
 Title: Function to get the unique count in a range
-categories: [vba]
+categories: [excel, vba]
 tags: [unique, text-strings, function]
 date: 2018-11-16
 

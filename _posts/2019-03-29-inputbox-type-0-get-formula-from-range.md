@@ -1,6 +1,6 @@
 ---
 Title: InputBox Type 0 - get formula from range
-categories: [vba]
+categories: [excel, vba]
 tags: [inputbox]
 date: 2019-03-29 18:48:00
 ---

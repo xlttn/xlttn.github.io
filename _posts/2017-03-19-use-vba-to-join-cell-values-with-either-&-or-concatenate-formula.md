@@ -1,6 +1,6 @@
 ---
 Title: Use VBA to Join Cell Values With Either & or Concatenate Formula
-categories: [vba]
+categories: [excel, vba]
 tags: [text-strings]
 date: 2017-03-19 18:43:00
 

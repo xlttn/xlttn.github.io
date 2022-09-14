@@ -1,6 +1,6 @@
 ---
 Title: Copy as Special Values Between Worksheets
-categories: [vba]
+categories: [excel, vba]
 tags: [copy-data]    
 date: 2018-09-25
 

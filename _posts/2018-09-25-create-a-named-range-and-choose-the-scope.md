@@ -1,6 +1,6 @@
 ---
 Title: Create Named Ranges and Choose the Scope
-categories: [vba]
+categories: [excel, vba]
 tags: [practical]
 date: 2018-09-25
 

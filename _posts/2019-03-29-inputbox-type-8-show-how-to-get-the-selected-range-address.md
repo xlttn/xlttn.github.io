@@ -1,6 +1,6 @@
 ---
 Title: InputBox Type 8 - show how to get the selected range address
-categories: [vba]
+categories: [excel, vba]
 tags: [inputbox]
 date: 2019-03-29 18:43:00
 

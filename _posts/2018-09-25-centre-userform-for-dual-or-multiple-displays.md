@@ -1,6 +1,6 @@
 ---
 Title: Centre the Userform on the Screen for Multiple Monitors
-categories: [vba]
+categories: [excel, vba]
 tags: [userform ]
 date: 2018-09-25
 

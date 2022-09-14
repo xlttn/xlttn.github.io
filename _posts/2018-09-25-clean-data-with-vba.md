@@ -1,6 +1,6 @@
 ---
 Title: Clean up your data with VBA, using TRIM, CLEAN and SUBSTITUTE
-categories: [vba]
+categories: [excel, vba]
 tags: [text-strings, practical]
 date: 2018-09-25
 

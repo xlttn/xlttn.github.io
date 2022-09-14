@@ -1,6 +1,6 @@
 ---
 Title: Hide all Columns that Contain a Value in a Cell
-categories: [vba]
+categories: [excel, vba]
 tags: [practical-applications]
 date: 2018-10-11
 

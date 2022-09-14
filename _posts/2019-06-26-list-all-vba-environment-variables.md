@@ -1,6 +1,6 @@
 ---
 Title: List All VBA Environment Variables
-categories: [vba]
+categories: [excel, vba]
 tags: [developer]
 date: 2019-06-25 18:43:00
 

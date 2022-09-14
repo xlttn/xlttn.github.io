@@ -1,6 +1,6 @@
 ---
 Title: Copy a Formula down a Dynamic Column Range
-categories: [vba]
+categories: [excel, vba]
 tags: [copy-data, dynamic-ranges]
 date: 2018-09-25
 

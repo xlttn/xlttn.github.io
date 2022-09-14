@@ -1,6 +1,6 @@
 ---
 Title: InputBox Type 4 - get a boolean response
-categories: [vba]
+categories: [excel, vba]
 tags: [inputbox]
 date: 2019-03-29 18:49:00
 

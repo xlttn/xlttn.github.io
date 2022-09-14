@@ -1,6 +1,6 @@
 ---
 Title: Create a Table of Contents
-categories: [vba]
+categories: [excel, vba]
 tags: [practical]
 date: 2018-1-16
 

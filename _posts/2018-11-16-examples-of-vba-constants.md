@@ -1,6 +1,6 @@
 ---
 Title: Examples of VBA Constants
-categories: [vba]
+categories: [excel, vba]
 tags: [developer]
 date: 2018-11-16
 

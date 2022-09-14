@@ -1,6 +1,6 @@
 ---
 Title: Force SaveAs UI to only accept Macro Enabled Workbook (xlsm)
-categories: [vba]
+categories: [excel, vba]
 tags: [export]
 date: 2018-11-16
 

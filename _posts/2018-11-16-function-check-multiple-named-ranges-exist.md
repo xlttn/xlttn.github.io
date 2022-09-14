@@ -1,6 +1,6 @@
 ---
 Title: Function Check multiple named ranges exist
-categories: [vba]
+categories: [excel, vba]
 tags: [developer, function]
 date: 2018-11-16
 

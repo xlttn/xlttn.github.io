@@ -1,6 +1,6 @@
 ---
 Title: Finding the Last Row or First and Last Available Blank Row
-categories: [vba]
+categories: [excel, vba]
 tags: [dynamic-ranges]
 date: 2018-11-16
 

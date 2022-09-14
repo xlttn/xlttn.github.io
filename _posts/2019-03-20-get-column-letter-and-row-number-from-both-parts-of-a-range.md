@@ -1,6 +1,6 @@
 ---
 Title: Get Column Letter and Row Number from Both Parts of a Range
-categories: [vba]
+categories: [excel, vba]
 tags: [copy-data]
 date: 2019-03-20 21:21:00
 

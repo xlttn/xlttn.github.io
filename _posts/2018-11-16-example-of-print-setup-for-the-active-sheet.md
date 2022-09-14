@@ -1,6 +1,6 @@
 ---
 Title: Example of Print Setup for the active sheet
-categories: [vba]
+categories: [excel, vba]
 tags: [interface-formatting, printing]
 date: 2018-11-16
 

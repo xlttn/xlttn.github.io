@@ -1,6 +1,6 @@
 ---
 Title: Hyperlink a file or folder using the HYPERLINK formula using VBA
-categories: [vba]
+categories: [excel, vba]
 tags: [files]
 date: 2019-03-29 18:00:00
 

@@ -1,6 +1,6 @@
 ---
 Title: InputBox - Assign an array of Values to a Range
-categories: [vba]
+categories: [excel, vba]
 tags: [inputbox]
 date: 2019-03-29 18:47:00
 

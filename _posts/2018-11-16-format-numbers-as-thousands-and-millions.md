@@ -1,6 +1,6 @@
 ---
 Title: Format Numbers as Thousands and Millions
-categories: [vba]
+categories: [excel, vba]
 tags: [practical, interface-formatting]
 date: 2018-11-16
 

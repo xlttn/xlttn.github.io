@@ -1,6 +1,6 @@
 ---
 Title: Prevent Vba Code from Running While in Read-only Mode
-categories: [vba]
+categories: [excel, vba]
 tags: [developer]
 date: 2017-03-19 18:43:00
 

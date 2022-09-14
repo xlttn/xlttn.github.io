@@ -1,6 +1,6 @@
 ---
 Title: Adding a Context Menu to a Userform's Textbox
-categories: [vba]
+categories: [excel, vba]
 tags: [userform]
 date: 2018-09-25
 

@@ -1,6 +1,6 @@
 ---
 Title: Import csv to excel with paramaters
-categories: [vba]
+categories: [excel, vba]
 tags: [copy-data]
 date: 2019-03-29 18:00:00
 

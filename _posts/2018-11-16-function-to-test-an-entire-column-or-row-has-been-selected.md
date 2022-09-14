@@ -1,6 +1,6 @@
 ---
 Title: Function to test an entire column or row has been selected
-categories: [vba]
+categories: [excel, vba]
 tags: [validation, developer, function]
 date: 2018-11-16
 

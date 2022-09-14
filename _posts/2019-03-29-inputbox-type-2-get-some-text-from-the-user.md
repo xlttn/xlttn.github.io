@@ -1,6 +1,6 @@
 ---
 Title: InputBox Type 2 - get some text from the
-categories: [vba]
+categories: [excel, vba]
 tags: [inputbox]
 date: 2019-03-29 18:40:00
 

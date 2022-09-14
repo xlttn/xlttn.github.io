@@ -1,6 +1,6 @@
 ---
 Title: Get the nth word from a text string with VBA
-categories: [vba]
+categories: [excel, vba]
 tags: [text-strings, function]
 date: 2019-03-20 21:27:00
 

@@ -1,6 +1,6 @@
 ---
 Title: Inputbox Type 1 get a number from the user
-categories: [vba]
+categories: [excel, vba]
 tags: [inputbox]
 date: 2019-03-29 18:39:00
 

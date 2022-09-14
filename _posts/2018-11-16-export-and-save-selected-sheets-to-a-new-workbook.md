@@ -1,6 +1,6 @@
 ---
 Title: Export and Save Selected Sheets to a New Workbook
-categories: [vba]
+categories: [excel, vba]
 tags: [export]
 date: 2018-11-16
 

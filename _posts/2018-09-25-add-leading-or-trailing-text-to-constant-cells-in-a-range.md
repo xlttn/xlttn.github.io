@@ -1,6 +1,6 @@
 ---
 Title: Add leading text to all the cells in a selected range
-categories: [vba]
+categories: [excel, vba]
 tags: [text-strings]
 date: 2018-09-25
 

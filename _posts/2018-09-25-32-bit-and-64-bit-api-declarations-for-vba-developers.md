@@ -1,6 +1,6 @@
 ---
 Title: 32 and 64 Bit API Declarations for VBA Developers
-categories: [vba]
+categories: [excel, vba]
 tags: [developer]
 date: 2018-09-25
 

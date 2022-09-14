@@ -1,6 +1,6 @@
 ---
 Title: Backup and Copy the Active Sheet
-categories: [vba]
+categories: [excel, vba]
 tags: [copy-data, developer]
 date: 2018-09-25
 ---

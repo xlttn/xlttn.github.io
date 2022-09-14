@@ -1,6 +1,6 @@
 ---
 Title: InputBox Type 8 - select a range and write values to each cell
-categories: [vba]
+categories: [excel, vba]
 tags: [inputbox]
 date: 2019-03-29 18:42:00
 

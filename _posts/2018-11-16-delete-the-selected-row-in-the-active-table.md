@@ -1,6 +1,6 @@
 ---
 Title: Delete the selected row in the active table
-categories: [vba]
+categories: [excel, vba]
 tags: [tables, deleting-data]
 date: 2018-11-16
 

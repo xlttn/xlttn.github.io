@@ -1,6 +1,6 @@
 ---
 Title: Delete entire row if no data is found
-categories: [vba]
+categories: [excel, vba]
 tags: [deleting-data]
 date: 2018-11-16
 

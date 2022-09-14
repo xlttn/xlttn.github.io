@@ -1,6 +1,6 @@
 ---
 Title: Generate a GUID to a selected range of cells with VBA
-categories: [vba]
+categories: [excel, vba]
 tags: [unique, text-strings]
 date: 2019-03-20 21:00:00 
 

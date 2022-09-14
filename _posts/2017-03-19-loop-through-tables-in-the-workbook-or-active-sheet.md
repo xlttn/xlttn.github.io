@@ -1,6 +1,6 @@
 ---
 Title: Loop Through Tables in the Workbook or Active Sheet
-categories: [vba]
+categories: [excel, vba]
 tags: [tables]
 date: 2017-03-19 18:43:00
 

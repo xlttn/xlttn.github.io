@@ -1,6 +1,6 @@
 ---
 Title: Create Sheets from Cell Values
-categories: [vba]
+categories: [excel, vba]
 tags: [practical]
 date: 2018-11-16
 

@@ -1,6 +1,6 @@
 ---
 Title: Function to get the column letter from the column number
-categories: [vba]
+categories: [excel, vba]
 tags: [practical, function]  
 date: 2018-09-25
 

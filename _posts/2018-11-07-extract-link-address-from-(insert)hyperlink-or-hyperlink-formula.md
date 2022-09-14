@@ -1,6 +1,6 @@
 ---
 Title: Extract link address from (insert)hyperlink or hyperlink formula
-categories: [vba]
+categories: [excel, vba]
 tags: [text, files]
 date: 2018-11-07
 
