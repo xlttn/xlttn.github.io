@@ -1,7 +1,7 @@
 ---
 Title: List of States in Australia and Their Capital Cities
 categories: [Sample Data, Lists]
-tags: lists
+tags: [lists]
 date: 2020-03-18 18:43:00
 
 ---

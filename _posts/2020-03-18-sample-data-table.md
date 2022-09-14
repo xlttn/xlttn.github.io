@@ -1,7 +1,7 @@
 ---
 Title: Sample Data Table
 categories: [Sample Data]
-tags: tables
+tags: [tables]
 date: 2020-03-19 19:43:00
 
 ---
