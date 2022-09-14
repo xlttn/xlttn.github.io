@@ -6,7 +6,7 @@ date: 2020-03-19 19:43:00
 
 ---
 
-Sample Data Table of Sales.
+Sample Data Table of Sales
 
 Download the example workbook here: [Sample-Table-Data.xlsx](/example-files/Sample-Table-Data.xlsx)  
 
