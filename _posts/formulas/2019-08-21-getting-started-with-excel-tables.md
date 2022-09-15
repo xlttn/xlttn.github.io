@@ -81,6 +81,4 @@ When you have data in a table, you can easily load it to Power Query (Get & Tran
 ## Got multiple tables? Connect them to make a multi-table pivot
 When you have more than one table, you can also connect them using Excel’s relationship feature. This way, you can build multi-table pivots to create powerful analysis of your data.
 
-[Introduction to the Excel Data Model and Relationships](/formulas/introduction-to-the-excel-data-model-&-relationships/){:target="_blank"}
-
 ![intro-to-tables-img](/imgs/intro-to-tables/introduction-to-tables-pic8.png)

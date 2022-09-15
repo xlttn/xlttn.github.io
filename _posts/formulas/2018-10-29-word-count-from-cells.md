@@ -8,8 +8,6 @@ date: 2018-10-29
 
 There's no built in way to count the number of words in Excel, but using the following formulas will get it done.  
 
-Download the example workbook here: [Word Count.xlsx](/example-files/word-count.xlsx)  
-
 ## Count the number of words in a cell
 ```vb
 ' A2 as the following sentence (without quotation marks) to get the word count:
