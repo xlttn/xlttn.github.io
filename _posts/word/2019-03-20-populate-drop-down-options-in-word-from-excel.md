@@ -1,6 +1,6 @@
 ---
 Title: Populate Drop Down options in Word from Excel
-categories: [Word, VBA]
+categories: [Word]
 tags: [practical, copy-data]
 date: 2019-03-20 21:20:00
 
