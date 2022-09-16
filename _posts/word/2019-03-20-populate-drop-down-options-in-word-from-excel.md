@@ -9,7 +9,8 @@ date: 2019-03-20 21:20:00
 Manually typing each option for a drop-down list in word ***(drop-down list content control)*** is time consuming, but there is no native way to import a list you've made in Excel, or exported from a database to a workbook... to Word.
 
 ## Getting our List Set Up
-There's a couple things we have to do first:  
+There's a couple things we have to do first
+
 
 ### Excel
 1. get your list into an excel workbook
