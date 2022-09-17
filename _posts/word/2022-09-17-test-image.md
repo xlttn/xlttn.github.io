@@ -1,7 +1,7 @@
 ---
 Title: test image
-categories: [test]
-tags: [test]
+categories: [cat-testing]
+tags: [tag-esting]
 date: 2022-09-17
 
 ---
