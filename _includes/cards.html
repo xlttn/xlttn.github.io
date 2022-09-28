@@ -1,0 +1,19 @@
+<div class="row">
+    {% for post in include.references %}
+    <div class="col-md-4 my-1">
+      <div class="card h-100 bg-transparent">
+        {% assign src = post.img_path | append:'/' | append: post.images[0].src %}
+        <a href="{{ post.url }}">
+          <img class="card-img-top" src="{{ src }}" alt="{{ post.title }}" loading="lazy">
+        </a>
+        <div class="card-body">
+          <h5 class="card-title mt-0">{{ post.title }}</h5>
+          <a href="{{ post.url }}" class="card-text">Részletek</a>
+        </div>
+        <div class="card-footer">
+          <small class="text-muted">Készült: {{ post.date | date: "%Y.%m.%d" }}</small>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
