@@ -3,7 +3,6 @@ Title: Merge Word Docs
 categories: [Portfolio]
 tags: [showcase]
 date: 2022-09-29
-image:
 
 img_path: /imgs/portfolio
 image:
