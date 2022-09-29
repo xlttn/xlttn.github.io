@@ -8,10 +8,5 @@ show: true
 
 ## excel
 
-{% assign sites = site.categories['Excel'] | sort: 'date' | reverse %}
+{% assign sites = site.categories['Portfolio'] | sort: 'date' | reverse %}
 {% include cards.html references = sites %}
-
-## word
-
-{% assign publications = site.categories['Word'] | sort: 'date' | reverse %}
-{% include cards.html references = publications %}
