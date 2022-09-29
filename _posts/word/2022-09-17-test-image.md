@@ -1,6 +1,6 @@
 ---
 Title: test image
-categories: [cat-testing]
+categories: [Portfolio]
 tags: [tag-esting]
 date: 2022-09-17
 
