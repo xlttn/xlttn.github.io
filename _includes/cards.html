@@ -1,8 +1,7 @@
 <div class="row">
     {% for post in include.references %}
       <div class="col-md-6 my-1">
-        <div class="card h-150 bg-transparent">
-          <div class="card border-0">
+        <div class="card h-150 card border-0 bg-transparent">
             {% assign src = post.img_path | append:'/' | append: post.images[0].src %}
             <a href="{{ post.url }}">
               <img class="card-img-top" src="{{ src }}" alt="{{ post.title }}" loading="lazy">
@@ -12,6 +11,5 @@
             </div>
           </div>
         </div>
-      </div>
     {% endfor %}
 </div>
