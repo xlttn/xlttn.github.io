@@ -3,7 +3,7 @@
     <div class="col-md-6 my-1">
       <div class="card h-150 card border-0 bg-transparent">
         {% assign src = post.img_path | append:'/' | append: post.images[0].src %}
-        <div class="card-img-overlay">
+        <div class="card-body">
           <h5 class="card-title mt-0">{{ post.title }}</h5>
         </div>
         <a href="{{ post.url }}">
