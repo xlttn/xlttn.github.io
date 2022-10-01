@@ -1,5 +1,5 @@
 ---
-title: Pportfolio
+title: Portfolio
 icon: fas fa-link
 image: /imgs/data-model/data-model-pivot.png
 order: 5
