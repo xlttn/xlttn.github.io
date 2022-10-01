@@ -6,13 +6,13 @@ date: 2022-09-29
 
 img_path: /imgs/portfolio
 image:
-  path: merge-word-docs.jpg
-  width: 3840
-  height: 2160
+  path: merge-word-docs.png
+  width: 800
+  height: 450
   alt: merge-word-docs
 images:
 - id: 0
-  src: merge-word-docs.jpg
+  src: merge-word-docs.png
   alt: merge-word-docs
 
 
