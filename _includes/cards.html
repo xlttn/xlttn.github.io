@@ -4,9 +4,9 @@
       <div class="card h-150 card border-0 bg-transparent">
         {% assign src = post.img_path | append:'/' | append: post.images[0].src %}
         <a href="{{ post.url }}">
-          <img class="card-img-top" src="{{ src }}" alt="{{ post.title }}" loading="lazy">
+          <img class="card-img" src="{{ src }}" alt="{{ post.title }}" loading="lazy">
         </a>
-        <div class="card-body">
+        <div class="card-img-overlay">
           <h5 class="card-title mt-0">{{ post.title }}</h5>
         </div>
       </div>
