@@ -6,8 +6,9 @@ order: 6
 show: true
 ---
 
-V2
+V3
 
+<div class="row">
 <div class="col-md-6 my-1">
   <div class="card border-0 bg-transparent">
     <div class="card-img-overlay">
@@ -50,4 +51,5 @@ V2
       <h5 class="card-title">Merge Word Docs</h5>
     </div>
   </div>
+</div>
 </div>
