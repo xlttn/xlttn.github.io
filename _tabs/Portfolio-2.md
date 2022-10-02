@@ -14,7 +14,7 @@ V2
       <h5 class="card-title">Titan Tools</h5>
     </div>
     <a href="/posts/titan-tools/">
-      <img class="card-img-overlay" src="/imgs/portfolio/titan-tools.png" alt="titan-tools" loading="lazy">
+      <img class="card-img" src="/imgs/portfolio/titan-tools.png" alt="titan-tools" loading="lazy">
     </a>
   </div>
 </div>
