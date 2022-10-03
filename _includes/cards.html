@@ -1,11 +1,12 @@
 <div class="row">
   {% for post in include.references %}
     <div class="col-md-6 my-1">
-      <div class="card h-150 card border-0 bg-transparent">
+      <div class="card h-150 card border-0 bg-transparent text-center">
         {% assign src = post.img_path | append:'/' | append: post.images[0].src %}
         <img class="card-img" src="{{ src }}" alt="{{ post.title }}" loading="lazy">
         <div class="card-img-overlay">
-          <a href="{{ post.url }}" h5 class="card-title mt-0 stretched-link">{{ post.title }}</a>
+          <h5 class="card-title">{{ post.title }}</h5>
+          <a href="{{ post.url }}" class="stretched-link"></a>
         </div>
       </div>
     </div>
