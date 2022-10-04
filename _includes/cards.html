@@ -3,9 +3,10 @@
     <div class="col-md-4 my-1">
       <div class="cards">
         <div class="card h-150 card border-0 bg-transparent text-center">
-          <h5 class="card-title"><strong>{{ post.title }}</strong></h5>
           {% assign src = post.img_path | append:'/' | append: post.images[0].src %}
-          <a href="{{ post.url }}" class="stretched-link">img src="{{ src }}" alt="{{ post.title }}" width="800" height="450"</a>
+          <img class="card-img" src="{{ src }}" alt="{{ post.title }}" loading="lazy">
+          <h5 class="card-title"><strong>{{ post.title }}</strong></h5>
+          <a href="{{ post.url }}" class="stretched-link"></a>
         </div>
       </div>
     </div>
