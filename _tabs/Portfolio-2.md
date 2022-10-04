@@ -8,13 +8,14 @@ show: true
 
 v7
 
+
 <div class="container d-flex align-items-center justify-content-center position-relative flex-wrap">
         <div class="card d-flex position-relative flex-column">
             <div class='imgContainer'>
                 <img src='/imgs/portfolio/bulkmail.png'>
             </div>
             <div class="content">
-                <h2>Card One</h2>
+                <h2>Bulkmail</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
             </div>
         </div>
@@ -23,7 +24,7 @@ v7
                 <img src='/imgs/portfolio/titan-tools.png'>
             </div>
             <div class="content">
-                <h2>Card Two</h2>
+                <h2>Titan Tools</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
             </div>
         </div>
@@ -32,7 +33,16 @@ v7
                 <img src='/imgs/portfolio/capture.png'>
             </div>
             <div class="content">
-                <h2>Card Three</h2>
+                <h2>Capture</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
+            </div>
+        </div>
+            <div class="card d-flex position-relative flex-column">
+            <div class='imgContainer'>
+                <img src='/imgs/portfolio/merge-word-docs.png'>
+            </div>
+            <div class="content">
+                <h2>Merge Word Docs</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
             </div>
         </div>
