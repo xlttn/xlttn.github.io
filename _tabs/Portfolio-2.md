@@ -11,9 +11,6 @@ v10
 
 <div class="container">
 <div class="section ourTeam">
-	<header class="text-center">
-		<h2>Meet <strong>Our Team</strong></h2>
-	</header>
 	<div class="row">
 		<div class="col-md-6 my-1 i">
 			<div class="c text-center">
