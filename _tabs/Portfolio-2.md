@@ -49,7 +49,6 @@ v4
                             <div class="image-box">
                                 <img src="https://cdn.pixabay.com/photo/2018/04/06/13/46/poly-3295856_960_720.png" alt="" />
                             </div>
-
                             <div class="text-container">
                                 <h6>Title 03</h6>
                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
