@@ -6,9 +6,7 @@ order: 6
 show: true
 ---
 
-v5
-
-<link type="text/css" rel="stylesheet" href="/assets/css/style.css" />
+v6
 
 <!-- Topic Cards -->
 <div id="cards_landscape_wrap-2">
