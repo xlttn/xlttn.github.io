@@ -13,37 +13,33 @@ v11
   <div class="row g-0">
     <div class="col-md-6 border-right">
       <div class="cards">                    
-        <div class="bg-transparent text-center">
-          <img src="/imgs/portfolio/titan-tools.png" />
+        <div class="card h-150 card border-0 bg-transparent text-center">
           <h5>Titan Tools</h5>
-          <p class="line1">No limitation - Its got everything that you 'll need as you grow</p>                    
+          <img src="/imgs/portfolio/titan-tools.png" />                  
         </div>
       </div>                  
     </div>
     <div class="col-md-6 border-right">
       <div class="cards">                    
-        <div class="bg-transparent text-center">
-          <img src="/imgs/portfolio/bulkmail.png" />
+        <div class="card h-150 card border-0 bg-transparent text-center">
           <h5>Bulkmail</h5>
-          <p class="line1">No limitation - Its got everything that you 'll need as you grow</p>                    
+          <img src="/imgs/portfolio/bulkmail.png" />             
         </div>
       </div>                  
     </div>
     <div class="col-md-6 border-right">
       <div class="cards">                    
-        <div class="bg-transparent text-center">
-          <img src="/imgs/portfolio/capture.png" />
+        <div class="card h-150 card border-0 bg-transparent text-center">
           <h5>Capture</h5>
-          <p class="line1">No limitation - Its got everything that you 'll need as you grow</p>                    
+          <img src="/imgs/portfolio/capture.png" />             
         </div>
       </div>                  
     </div>
     <div class="col-md-6 border-right">
       <div class="cards">                    
-        <div class="bg-transparent text-center">
-          <img src="/imgs/portfolio/merge-word-docs.png" />
+        <div class="card h-150 card border-0 bg-transparent text-center">
           <h5>Merge word docs</h5>
-          <p class="line1">No limitation - Its got everything that you 'll need as you grow</p>                    
+          <img src="/imgs/portfolio/merge-word-docs.png" />            
         </div>
       </div>                  
     </div>
