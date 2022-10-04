@@ -6,72 +6,34 @@ order: 6
 show: true
 ---
 
-v6
+v7
 
-<!-- Topic Cards -->
-<div id="cards_landscape_wrap-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="">
-                    <div class="card-flyer">
-                        <div class="text-box">
-                            <div class="image-box">
-                                <img src="https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg" alt="" />
-                            </div>
-                            <div class="text-container">
-                                <h6>Title 01</h6>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            </div>
-                        </div>
-                    </div>
-                </a>
+<div class="container d-flex align-items-center justify-content-center position-relative flex-wrap">
+        <div class="card d-flex position-relative flex-column">
+            <div class='imgContainer'>
+                <img src='/imgs/portfolio/bulkmail.png'>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="">
-                    <div class="card-flyer">
-                        <div class="text-box">
-                            <div class="image-box">
-                                <img src="https://cdn.pixabay.com/photo/2018/04/09/19/55/low-poly-3305284_960_720.jpg" alt="" />
-                            </div>
-                            <div class="text-container">                                    
-                                <h6>Title 02</h6>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            </div>
-                        </div>
-                    </div>
-                </a>
+            <div class="content">
+                <h2>Card One</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="">
-                    <div class="card-flyer">
-                        <div class="text-box">
-                            <div class="image-box">
-                                <img src="https://cdn.pixabay.com/photo/2018/04/06/13/46/poly-3295856_960_720.png" alt="" />
-                            </div>
-                            <div class="text-container">
-                                <h6>Title 03</h6>
-                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            </div>
-                        </div>
-                    </div>
-                </a>
+        </div>
+        <div class="card d-flex position-relative flex-column">
+            <div class='imgContainer'>
+                <img src='/imgs/portfolio/titan-tools.png'>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                <a href="">
-                    <div class="card-flyer">
-                        <div class="text-box">
-                            <div class="image-box">
-                                <img src="https://cdn.pixabay.com/photo/2018/03/30/15/12/dog-3275593_960_720.jpg" alt="" />
-                            </div>
-                            <div class="text-container">
-                                <h6>Title 04</h6>
-                               <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-                            </div>
-                        </div>
-                    </div>
-                </a>
+            <div class="content">
+                <h2>Card Two</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
+            </div>
+        </div>
+        <div class="card d-flex position-relative flex-column">
+            <div class='imgContainer'>
+                <img src='/imgs/portfolio/capture.png'>
+            </div>
+            <div class="content">
+                <h2>Card Three</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
             </div>
         </div>
     </div>
-</div>
