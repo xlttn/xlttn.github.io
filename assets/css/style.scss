@@ -11,71 +11,72 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 /* append your custom style below */
 
-/* DEMO GENERAL ============================== */
-.hover {
-  overflow: hidden;
-  position: relative;
-  padding-bottom: 60%;
+.containerm {
+    min-height: 100vh;
+    overflow: hidden;
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center
 }
 
-.hover-overlay {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: 90;
-  transition: all 0.4s;
+.image {
+    overflow: hidden;
+    height: 300px;
+    width: 300px;
+    position: relative;
+    cursor: pointer;
+    margin: 0 15px;
+    box-shadow: 0 0 25px 1px rgba(0, 0, 0, .3);
+    transition: .5s;
+    background-color: #555
 }
 
-.hover img {
-  width: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  transition: all 0.3s;
+.image:after {
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    width: 500px;
+    height: 500px;
+    transform: translate(-140%, -50%);
+    background-color: blue;
+    opacity: 0.8;
+    border-radius: 50%;
+    transition: .8s
 }
 
-.hover-content {
-  position: relative;
-  z-index: 99;
+.image:hover:after {
+    transform: translate(-50%, -50%)
 }
 
-/* DEMO 2 ============================== */
-.hover-2 .hover-overlay {
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.1));
+.image:hover img {
+    transform: translate(-50%, -50%) scale(1.3) rotate(20deg)
 }
 
-.hover-2-title {
-  position: absolute;
-  top: 50%;
-  left: 0;
-  text-align: center;
-  width: 100%;
-  z-index: 99;
-  transition: all 0.3s;
+img {
+    position: absolute;
+    height: 110%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: .8s
 }
 
-.hover-2-description {
-  width: 100%;
-  position: absolute;
-  bottom: 0;
-  opacity: 0;
-  left: 0;
-  text-align: center;
-  z-index: 99;
-  transition: all 0.3s;
+i {
+    position: absolute;
+    z-index: 2;
+    top: 50%;
+    left: 50%;
+    transform: translate(-2000px, -50%);
+    color: #fff;
+    transition: .8s;
+    transition-timing-function: ease-in
 }
 
-.hover-2:hover .hover-2-title {
-  transform: translateY(-1.5rem);
-}
-
-.hover-2:hover .hover-2-description {
-  bottom: 0.5rem;
-  opacity: 1;
-}
-
-.hover-2:hover .hover-overlay {
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1));
+.image:hover i {
+    transform: translate(-50%, -50%);
+    transition-timing-function: ease
 }
