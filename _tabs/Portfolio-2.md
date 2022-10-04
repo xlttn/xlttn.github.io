@@ -6,44 +6,57 @@ order: 6
 show: true
 ---
 
-v7
+v8
 
+<div class="container py-5">
+  
+   <div class="py-5">
+    <h3 class="font-weight-bold mb-0">Demo 2</h3>
+    <p class="font-italic text-muted mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+    <div class="row">
+      <!-- DEMO 2 Item-->
+      <div class="col-lg-6 mb-3 mb-lg-0">
+        <div class="hover hover-2 text-white rounded"><img src="/imgs/portfolio/bulkmail.png" alt="">
+          <div class="hover-overlay"></div>
+          <div class="hover-2-content px-5 py-4">
+            <h3 class="hover-2-title text-uppercase font-weight-bold mb-0"> <span class="font-weight-light">Image </span>Caption</h3>
+            <p class="hover-2-description text-uppercase mb-0">Lorem ipsum dolor sit amet, consectetur <br>adipisicing elit.</p>
+          </div>
+        </div>
+      </div>
 
-<div class="container d-flex align-items-center justify-content-center position-relative flex-wrap">
-        <div class="card d-flex position-relative flex-column">
-            <div class='imgContainer'>
-                <img src='/imgs/portfolio/bulkmail.png'>
-            </div>
-            <div class="content">
-                <h2>Bulkmail</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
-            </div>
+      <!-- DEMO 2 Item-->
+      <div class="col-lg-6">
+        <div class="hover hover-2 text-white rounded"><img src="/imgs/portfolio/capture.png" alt="">
+          <div class="hover-overlay"></div>
+          <div class="hover-2-content px-5 py-4">
+            <h3 class="hover-2-title text-uppercase font-weight-bold mb-0"> <span class="font-weight-light">Image </span>Caption</h3>
+            <p class="hover-2-description text-uppercase mb-0">Lorem ipsum dolor sit amet, consectetur <br>adipisicing elit.</p>
+          </div>
         </div>
-        <div class="card d-flex position-relative flex-column">
-            <div class='imgContainer'>
-                <img src='/imgs/portfolio/titan-tools.png'>
-            </div>
-            <div class="content">
-                <h2>Titan Tools</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
-            </div>
+      </div>
+      
+      <!-- DEMO 2 Item-->
+      <div class="col-lg-6">
+        <div class="hover hover-2 text-white rounded"><img src="/imgs/portfolio/merge-word-docs.png" alt="">
+          <div class="hover-overlay"></div>
+          <div class="hover-2-content px-5 py-4">
+            <h3 class="hover-2-title text-uppercase font-weight-bold mb-0"> <span class="font-weight-light">Image </span>Caption</h3>
+            <p class="hover-2-description text-uppercase mb-0">Lorem ipsum dolor sit amet, consectetur <br>adipisicing elit.</p>
+          </div>
         </div>
-        <div class="card d-flex position-relative flex-column">
-            <div class='imgContainer'>
-                <img src='/imgs/portfolio/capture.png'>
-            </div>
-            <div class="content">
-                <h2>Capture</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
-            </div>
+      </div>
+      
+      <!-- DEMO 2 Item-->
+      <div class="col-lg-6">
+        <div class="hover hover-2 text-white rounded"><img src="/imgs/portfolio/titan-tools.png" alt="">
+          <div class="hover-overlay"></div>
+          <div class="hover-2-content px-5 py-4">
+            <h3 class="hover-2-title text-uppercase font-weight-bold mb-0"> <span class="font-weight-light">Image </span>Caption</h3>
+            <p class="hover-2-description text-uppercase mb-0">Lorem ipsum dolor sit amet, consectetur <br>adipisicing elit.</p>
+          </div>
         </div>
-            <div class="card d-flex position-relative flex-column">
-            <div class='imgContainer'>
-                <img src='/imgs/portfolio/merge-word-docs.png'>
-            </div>
-            <div class="content">
-                <h2>Merge Word Docs</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget velit tristique, sollicitudin leo viverra, suscipit neque. Aliquam ut facilisis urna, in pretium nibh.  Morbi in leo in eros commodo volutpat ac sed dolor.</p>
-            </div>
-        </div>
+      </div>
     </div>
+  </div>
+ </div>
