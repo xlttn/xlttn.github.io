@@ -32,7 +32,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
   overflow: hidden;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.50);
   border-radius: 5px;
-}
+} 
 .cards_landscape_wrap-2 .card-flyer .image-box img{
   -webkit-transition:all .9s ease; 
   -moz-transition:all .9s ease; 
