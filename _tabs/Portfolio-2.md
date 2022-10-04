@@ -15,7 +15,7 @@ v10
 		<h2>Meet <strong>Our Team</strong></h2>
 	</header>
 	<div class="row">
-		<div class="col-xs-6 col-sm-4 col-md-3 i">
+		<div class="col-md-6 my-1 i">
 			<div class="c text-center">
 				<div class="wrap">
 					<img src="/imgs/portfolio/titan-tools.png" alt="#" width="800" height="450" class="img-responsive">
@@ -35,7 +35,7 @@ v10
 				</div>
 			</div>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3 i">
+		<div class="col-md-6 my-1 i">
 			<div class="c text-center">
 				<div class="wrap">
 					<img src="/imgs/portfolio/bulkmail.png" alt="#" width="800" height="450" class="img-responsive">
@@ -55,7 +55,7 @@ v10
 				</div>
 			</div>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3 i">
+		<div class="col-md-6 my-1 i">
 			<div class="c text-center">
 				<div class="wrap">
 					<img src="/imgs/portfolio/capture.png" alt="#" width="800" height="450" class="img-responsive">
@@ -75,7 +75,7 @@ v10
 				</div>
 			</div>
 		</div>
-		<div class="col-xs-6 col-sm-4 col-md-3 i">
+		<div class="col-md-6 my-1 i">
 			<div class="c text-center">
 				<div class="wrap">
 					<img src="/imgs/portfolio/merge-word-docs.png" alt="#" width="800" height="450" class="img-responsive">
