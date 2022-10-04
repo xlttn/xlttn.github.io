@@ -8,7 +8,7 @@ show: true
 
 v5
 
-<link type="text/css" rel="stylesheet" href="/assets/css/style.scss" />
+<link type="text/css" rel="stylesheet" href="style.scss" />
 
 <!-- Topic Cards -->
 <div id="cards_landscape_wrap-2">
